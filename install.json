@@ -49,7 +49,19 @@
 					"PackageIdentifier" : "OpenJS.NodeJS"
 				},
 				{
+					"PackageIdentifier": "GoLang.Go"
+				},
+				{
 					"PackageIdentifier" : "Yarn.Yarn"
+				},
+				{
+					"PackageIdentifier": "VideoLAN.VLC"
+				},
+				{
+					"PackageIdentifier": "GitHub.cli"
+				},
+				{
+					"PackageIdentifier": "Docker.DockerDesktop"
 				}
 			],
 			"SourceDetails" : 
